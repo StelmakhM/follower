@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "David de Gea",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "id": 2,
+    "user": "Ryan Giggs",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "id": 3,
+    "user": "Sir Alex Ferguson",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "id": 4,
+    "user": "Eric Cantona",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "id": 5,
+    "user": "Patrice Evra",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  },
+  {
+    "id": 6,
+    "user": "Ruud Van Nistelrooy",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+  }
+]
