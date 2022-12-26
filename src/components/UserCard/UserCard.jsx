@@ -19,7 +19,7 @@ export const UserCard = ({ user, tweets, followers, avatar, cardId }) => {
 
   useEffect(() => {
     setToLocalStorage(cardId, isFollowing);
-  }, [isFollowing]);
+  }, [isFollowing, cardId]);
 
   return (
     <li className={styles.usercard}>
