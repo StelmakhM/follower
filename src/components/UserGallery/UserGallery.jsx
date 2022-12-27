@@ -13,7 +13,6 @@ export default function UserGallery() {
           tweets={tweets}
           followers={followers}
           user={user}
-          cardId={id}
         />
       ))}
     </ul>
